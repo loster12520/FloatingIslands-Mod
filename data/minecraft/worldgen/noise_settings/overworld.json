@@ -14,7 +14,7 @@
         "argument2": {
           "argument": {
             "argument": {
-              "argument": "minecraft:end/sloped_cheese",
+              "argument": "minecraft:overworld/sloped_cheese_override",
               "type": "minecraft:slide"
             },
             "type": "minecraft:blend_density"
