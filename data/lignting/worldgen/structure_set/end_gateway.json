@@ -1,0 +1,16 @@
+{
+    "placement": {
+        "type": "minecraft:concentric_rings",
+        "count": 4095,
+        "distance": 30,
+        "preferred_biomes": "#lignting:end_gateway",
+        "salt": 0,
+        "spread": 10
+    },
+    "structures": [
+        {
+            "structure": "lignting:end_gateway",
+            "weight": 1
+        }
+    ]
+}

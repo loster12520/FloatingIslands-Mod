@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#lignting:end_gateway",
+    "max_distance_from_center": 1,
+    "size": 1,
+    "spawn_overrides": {},
+    "start_height": {
+        "absolute": 75
+    },
+    "start_pool": "lignting:end_gateway",
+    "step": "underground_decoration",
+    "terrain_adaptation": "none",
+    "use_expansion_hack": false
+}

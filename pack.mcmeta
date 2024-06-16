@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 9,
+    "pack_format": 12,
     "description": [
       {
         "text": "FloatingIslands",
@@ -9,9 +9,13 @@
       {
         "text": "在主世界和下界生成类似末地的浮岛地形\nby Youmiel",
         "color": "gold"
+      },
+      {
+        "text": "修改版 by lignting",
+        "color": "gray"
       }
     ],
-    "version": "2.1.1",
+    "version": "3.1.2-0.0.1",
     "__comment__": "U_ruby w!"
   }
 }

@@ -1,0 +1,12 @@
+{
+    "schemaVersion": 1,
+    "id": "floating_islands_mod",
+    "version": "3.1.2-0.0.1",
+    "name": "FloatingIslands mod",
+    "description": "FloatingIslands datapack loaded in mod form, created by lignting",
+    "authors": [
+        "U_ruby",
+        "Youmiel",
+        "lignting"
+    ]
+}
